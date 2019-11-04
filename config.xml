@@ -10,6 +10,6 @@
   </author>
   <content src="index.html" />
   <platform name="android">
-    <icon src="res/map.png" />
+    <icon src="res/kamen rider.jpg" />
   </platform>
 </widget>
